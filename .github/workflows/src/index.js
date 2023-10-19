@@ -124,7 +124,7 @@ try {
     if(data.includes(author)){
     participant = true
      feedBackMessage = "Sinto muito! Parece que voce ja participou dessa atividade :("
-     feedback.push("nao tem mais pao de queijo :(")
+     feedback.push("nao tem mais Oficina :(")
     console.log(participant)
     }
   }); */
